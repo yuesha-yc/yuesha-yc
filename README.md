@@ -11,4 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="yuesha-yc github status" src="https://github-readme-stats.vercel.app/api?username=yuesha-yc&show_icons=true&hide_border=true&theme=radical"></img>
+<img align="left" alt="yuesha-yc github status" src="https://github-readme-stats.vercel.app/api?username=yuesha-yc&show_icons=true&hide_border=true&theme=radical"></img>
+
+I mainly create Minecraft Mods and Modpacks. 
+
+Known Languages: Java and Python
+
+Looking forward to learn: Rust

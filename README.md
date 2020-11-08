@@ -1,8 +1,4 @@
-### Hi there 👋
-
 <!--
-**khjxiaogu/khjxiaogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,5 +12,3 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="yuesha-yc github status" src="https://github-readme-stats.vercel.app/api?username=yuesha-yc&show_icons=true&hide_border=true&theme=radical"></img>
-
-<img align="right" alt="yuesha github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha&show_icons=true&hide_border=true&theme=radical&layout=compact"></img> 

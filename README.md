@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Fun facts  
 <img align="right" alt="yuesha-yc github status" src="https://github-readme-stats.vercel.app/api?username=yuesha-yc&show_icons=true&hide_border=true&theme=radical"></img>
 
-## my profile
 <img align="right" alt="yuesha github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha&show_icons=true&hide_border=true&theme=radical&layout=compact"></img> 

@@ -50,6 +50,6 @@ TBA
 
 ## Hobbies
 Science (yeah, it was really a hobby of me, thought it somewhat became what I am studying),
-Minecraft,
+Minecraft （playing and modding),
 Science Fiction (Books, Films, Animations) (mostly from Arthur Clarke, Cixin Liu, and Ted Chiang), 
 Photography (I would like to do astronomical photography when I get my personal equiment. I like all sort of peaceful scenes anyway), 

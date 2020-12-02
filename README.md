@@ -1,20 +1,15 @@
 [![YueSha's github stats](https://github-readme-stats.vercel.app/api?username=yuesha-yc)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiYifei1218&hide=php,shell,powershell,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&hide=php,shell,powershell,css)
 
 The following page contains information about Myself. 
 If you are interested in what kind of person I am, keep reading. 
 
 ## Name
 YueSha, this is my full name on internet.
-It doesn't really have a special meaning or something, it was just named by the first thought when I bought a Minecraft account. 
-Yichen (IPA: ìːʈʂʰə́n CN: 一陈), this is my first name in real life. It is also acceptable to call me that. 
+Yichen (IPA: ìːʈʂʰə́n CN: 一陈), this is my first name in real life. 
 
 ## Age
 17 (born 2003)
-
-## Gender
-I don't really care because I don't believe it matters on most things I do. 
-Also, I dislike bias that says different genders have different apatitudes in specific tasks.
 
 ## Location
 Beijing, China
@@ -35,14 +30,10 @@ Obviously, Student
 [@yuesha-yc](https://github.com/yuesha-yc/), you can use @yuesha-yc to ping me in any issues. 
 ### Discord
 [YueSha](https://discord.gg/BWn6E94), you can find me in some MC servers. 
-### TeamMoeg Forums
-[YueSha](https://forum.teammoeg.com/), you can ping me in any post. 
 ### Bilibili
 [Steins-YueSha](https://space.bilibili.com/128661221), for video uploads. 
 ### Curseforge
 [yuesha_yc](https://www.curseforge.com/members/yuesha_yc/projects), but it is not a place recommended for quick contact.
-### IRC
-[YueSha](https://webchat.esper.net/?channels=gt-dev&prompt=1#chan-2), you can find me in #gt-dev
 ### Twitter
 [KevinYichen1](https://twitter.com/KevinYichen1), but I don't look at it often
 ### Youtube

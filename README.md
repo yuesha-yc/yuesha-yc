@@ -1,5 +1,5 @@
 [![YueSha's github stats](https://github-readme-stats.vercel.app/api?username=yuesha-yc)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiYifei1218&hide=php,shell,powershell,css)
 
 The following page contains information about Myself. 
 If you are interested in what kind of person I am, keep reading. 

@@ -29,8 +29,6 @@ English, Chinese, and a bit of Spanish.
 [Steins-YueSha](https://space.bilibili.com/128661221), for video uploads. 
 - Curseforge
 [yuesha_yc](https://www.curseforge.com/members/yuesha_yc/projects), but it is not a place recommended for quick contact.
-- Twitter
-[KevinYichen1](https://twitter.com/KevinYichen1), but I don't look at it often
 
 ## Hobbies
 - Minecraft

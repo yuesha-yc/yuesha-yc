@@ -4,9 +4,6 @@
 
 <img align="left" alt="YueSha Github Toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&hide=php,shell,powershell,css"/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&hide=php,shell,powershell,css)
-
 ## Name
 YueSha, Yichen, Chen-r~, yuesha-chan(??)
 

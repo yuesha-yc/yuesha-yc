@@ -1,8 +1,6 @@
-<img align="left" alt="YueSha Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&show_icons=true&hide_border=true&theme=radical"/>
-
-<img align="left" alt="YueSha Github Stats 2" src="https://github-readme-stats.vercel.app/api?username=yuesha-yc"/>
-
-<img align="left" alt="YueSha Github Toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&hide=php,shell,powershell,css"/>
+<img align="left" alt="YueSha Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&show_icons=true&hide_border=true&theme=radical"/><br>
+<img align="left" alt="YueSha Github Stats 2" src="https://github-readme-stats.vercel.app/api?username=yuesha-yc"/><br>
+<img align="left" alt="YueSha Github Toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&hide=php,shell,powershell,css"/><br>
 
 ## Name
 YueSha, Yichen, Chen-r~, yuesha-chan(??)

@@ -8,7 +8,7 @@
 <!--<img align="center" alt="YueSha Github Toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuesha-yc&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=php,shell,powershell,css"/><br>-->
 
 ## Name
-YueSha, Yichen, Chen-r~, yuesha-chan(??)
+YueSha, Yichen
 
 ## Age
 Born 2003
@@ -17,11 +17,11 @@ Born 2003
 Beijing, China
 
 ## Languages
-English, Chinese, and a bit of Spanish.
+English, Chinese, and Spanish
 
 ## Education
-- Studied in high school at Beijing National Day School (BNDS), Beijing, China.
-- Seeking to study at universities in U.S. Currently I am in my application process. 
+- Studied at Beijing National Day School (BNDS), Beijing, China, for high school diploma. 
+- Studying at University of California, Los Angeles (UCLA), U.S., majoring in physics. 
 
 ## Occupation
 - Student
@@ -37,7 +37,7 @@ English, Chinese, and a bit of Spanish.
 [yuesha_yc](https://www.curseforge.com/members/yuesha_yc/projects), but it is not a place recommended for quick contact.
 
 ## Hobbies
-- Minecraft
+- Minecraft Modding / Gaming
 - Hard Science Fiction
 - Photography
 - Academic interests: Physics, Neuroscience, Computer Science

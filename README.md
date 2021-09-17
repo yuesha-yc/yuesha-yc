@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 #### Name
-YueSha, Yichen
+Yichen Wang
 
 #### Age
 Born 2003
@@ -20,10 +20,10 @@ Born 2003
 - Beijing National Day School, Beijing, China, High School Diploma, 2018-2021
 
 #### Occupation
-- Student
+- Undegraduate Student
 
 #### Hobbies
-- Minecraft Modding
+- [Minecraft Modding](https://github.com/TeamMoegMC)
 - Swimming
-- Hard Science Fiction
+- Science Fiction
 - Photography

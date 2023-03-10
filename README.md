@@ -13,8 +13,8 @@
   - Mar 2023: I am leading a [studio](https://github.com/TeamMoegMC) to create SF-themed minecraft modding projects. 
 - Writing science fictions
   - Dec 22, 2022: I finished my first novella "Floratown's Bloom".
-  - Feb 2022: I finished my second novella "
-  - Mar 2023: I hope to get my first novella published before 2024.
+  - Feb 2022: I finished my second novella "Lunar Rendezvous, 2123".
+  - Mar 2023: Got first rejection letter for "Floratown" from SFW. I got some new ideas to revise my current works. I hope to get my first novella published before 2024.
 - Playing music 
   - I own two acoustic guitar, but I do play electric guitar and bass.
   - My musical mind consists of a mix of Jazz and Chinese folk style.

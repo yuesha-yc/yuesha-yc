@@ -15,6 +15,7 @@
   - Dec 22, 2022: I finished my first novella "Floratown's Bloom".
   - Feb 2022: I finished my second novella "Lunar Rendezvous 2123" / "Under the White Tower 2123".
   - Mar 2023: Got first rejection letter for "Floratown" from SFW. I got some new ideas to revise my current works. I hope to get my first novella published before 2024.
+  - Mar 2023: Initiated the next novella "The Continuous Moment in Your Life" - inspired from mathematical analysis and algebraic topology. 
 - Playing music 
   - I own two acoustic guitar, but I do play electric guitar and bass.
   - My musical mind consists of a mix of Jazz and Chinese folk style.

@@ -18,7 +18,7 @@
   - Mar 2023: Got first rejection letter for "Floratown" from SFW. I got some new ideas to revise my current works. I hope to get my first novella published before 2024.
   - Mar 2023: Initiated the next novella "The Continuous Moment in Your Life" - inspired from mathematical analysis and algebraic topology.
   - Aug 2023: I got second-level award for "Floratown" for a SF competition.
-  - Oct 2023: Since June I have been working on a mid-long novel (~80k) called "Quarrying". It's a quite hard and solid topic so I would like to polish it really well. 
+  - Oct 2023: Since June I have been working on a mid-long novel (~80k) called _Quarrying_. It's a quite hard and solid topic so I would like to polish it really well. 
 - Reading
   - Oct 2023: I finished War and Peace and Crime and Punishment, and started to like Russian literature.
   - Oct 2023: Lord of Light is fabulously great.

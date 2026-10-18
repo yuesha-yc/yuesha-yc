@@ -6,7 +6,7 @@
 #### Academic Interests
 - PhD student studying Theoretical & Computational Neuroscience
 - Current emphasis: reverse engineering cortical microcircuits in early sensory areas.
-- Long-term interest: a theory guiding safe and reliable method of writing immersive sensory experience into cortex. 
+- Long-term goal: a theory guiding safe and reliable method of writing immersive sensory experience into cortex. 
 
 #### Other Interests
 - Writing science fiction
